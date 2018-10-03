@@ -1,0 +1,17 @@
+/*
+Creator: Christopher Rafalski
+Date created: 9/28/2018
+Date last modified: 9/28/2018
+*/
+body {
+    text-align: center
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+th {
+    font-size: 20px
+}
+div .content {
+    background-color: purple;
+}
